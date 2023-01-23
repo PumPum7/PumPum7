@@ -7,7 +7,7 @@ I am a full stack dev from Austria 🇦🇹. I am always interested in learning 
 * Python
 * Golang
 * Javascript/Typescript 
-* ReactJS (with NextJS)
+* ReactJS (with NextJS) and Svelte (with SvelteKit)
 * MongoDB, PostgreSQL, FaunaDB
 * HTML, CSS, TailwindCSS
 
