@@ -8,7 +8,8 @@ I am a full stack dev from Austria 🇦🇹. I am always interested in learning 
 * Golang
 * Javascript/Typescript 
 * ReactJS (with NextJS) and Svelte (with SvelteKit)
-* MongoDB, PostgreSQL, FaunaDB
+* Dart and Flutter
+* MongoDB, PostgreSQL, FaunaDB and Firebase
 * HTML, CSS, TailwindCSS
 
 
