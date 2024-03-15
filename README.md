@@ -1,6 +1,6 @@
 ### Hey there 👋, 
 
-I am a full stack dev from Austria 🇦🇹. I am always interested in learning new things. Feel free to contact me on discord: [Pum#0007](https://discord.com/users/274561812664549376)
+I am a full stack dev from Austria 🇦🇹. I am always interested in learning new things. Feel free to contact me on discord: [pum7](https://discord.com/users/274561812664549376)
 
 ### 📚 Currently used technologies
 
