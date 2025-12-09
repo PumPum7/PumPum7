@@ -15,6 +15,7 @@ I am a full stack dev from Austria 🇦🇹. I am always interested in learning 
 
 
 ### 📈 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumPum7&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/PumPum7)
-[![PumPum7's GitHub stats](https://github-readme-stats.vercel.app/api?username=PumPum7&theme=tokyonight&show_icons=true&hide=prs)](https://github.com/PumPum7)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PumPum7&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=PumPum7&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PumPum7&layout=compact&theme=gruvbox)
 
